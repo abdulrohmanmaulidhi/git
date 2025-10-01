@@ -1,4 +1,4 @@
-# 🎓 Project Database Sekolah
+# Assigment backend by celerates
 
 Tugas **Project Backend: Database & Version Control (Part 1)**  
 Menggunakan **MySQL** dan **PostgreSQL**.
