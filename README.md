@@ -7,6 +7,7 @@ Menggunakan **MySQL** dan **PostgreSQL**.
 
 ## 📂 Struktur Folder
 
+```code
 ASSIGMENT-SQL/
 │
 ├── MySQL/
@@ -28,3 +29,4 @@ ASSIGMENT-SQL/
 │ └── sekolah_YYYY-MM-DD_HHmmss.sql
 │
 └── README.md
+```
